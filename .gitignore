@@ -1,0 +1,9 @@
+/build/
+/.nmlcache/
+__pycache__/
+*.py[cod]
+*.grf
+*.pdf
+*.tar
+*.tar.gz
+*.zip
