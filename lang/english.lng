@@ -1,0 +1,44 @@
+##grflangid 0x01
+STR_GRF_NAME :NextGRF
+STR_GRF_DESC :NextGRF 0.4.0: 253 default-brand vehicles, 1700-2050. Finite ranges for all default and NextGRF aircraft; shorter jets and 1000-1600 tile long-haul airliners. Eight rail wagon generations, ships, buses and trucks. Default aircraft changes are limited to range.
+STR_ENGINE_POOL :NextGRF requires the multiple NewGRF vehicle sets setting (dynamic engines).
+STR_SAMPSON_U12 :Sampson U12
+STR_BAKEWELL_LB1 :Bakewell Cotswald LB-1
+STR_SAMPSON_U26 :Sampson U26
+STR_COLEMAN_COURIER :Coleman Courier
+STR_COLEMAN_COUNT2 :Coleman Count II
+STR_COLEMAN_COUNT3 :Coleman Count III
+STR_GURU_GALAXY2 :Guru Galaxy II
+STR_COLEMAN_COUNT4 :Coleman Count IV
+STR_DARWIN_650 :Darwin 650
+STR_AIRTAXI_A35 :Airtaxi A35
+STR_BAKEWELL_LB12 :Bakewell Luckett LB-12
+STR_YATE_ZSHUTTLE2 :Yate Z-Shuttle II
+STR_COLEMAN_COUNTE :Coleman Count E
+STR_AIRTAXI_A36 :Airtaxi A36
+STR_KELLING_K2 :Kelling K2
+STR_GURU_GALAXY3 :Guru Galaxy III
+STR_FFP_HYPERDART3 :FFP Hyperdart 3
+STR_DINGER_300 :Dinger 300
+STR_AIRTAXI_A37 :Airtaxi A37
+STR_DARWIN_800 :Darwin 800
+STR_ROLE_SAMPSON_U12 :NextGRF | Pioneer air taxi; low-cost passenger and mail service. Small-airport compatible.
+STR_ROLE_BAKEWELL_LB1 :NextGRF | Early cabin airliner. Small-airport compatible.
+STR_ROLE_SAMPSON_U26 :NextGRF | Rugged trimotor. Small-airport compatible.
+STR_ROLE_COLEMAN_COURIER :NextGRF | Piston passenger/mail transport: 40 passengers and 40 bags of mail. Small-airport compatible.
+STR_ROLE_COLEMAN_COUNT2 :NextGRF | Economical turboprop. Small-airport compatible.
+STR_ROLE_COLEMAN_COUNT3 :NextGRF | Regional turboprop workhorse. Small-airport compatible.
+STR_ROLE_GURU_GALAXY2 :NextGRF | Heavy trijet; passenger, mail, goods and food refits. Large airport recommended.
+STR_ROLE_COLEMAN_COUNT4 :NextGRF | Modern regional turboprop. Small-airport compatible.
+STR_ROLE_DARWIN_650 :NextGRF | High-capacity twin-engine widebody. Large airport recommended.
+STR_ROLE_AIRTAXI_A35 :NextGRF | Efficient mainstream widebody. Large airport recommended.
+STR_ROLE_BAKEWELL_LB12 :NextGRF | Moderate demand, moderate total operating cost. Large airport recommended.
+STR_ROLE_YATE_ZSHUTTLE2 :NextGRF | Fast regional shuttle. Small-airport compatible.
+STR_ROLE_COLEMAN_COUNTE :NextGRF | Fictional hybrid-electric regional; reduced running cost, standard game mechanics. Small-airport compatible.
+STR_ROLE_AIRTAXI_A36 :NextGRF | Long-wing efficient flagship. Large airport recommended.
+STR_ROLE_KELLING_K2 :NextGRF | Mail-heavy canard regional. Small-airport compatible.
+STR_ROLE_GURU_GALAXY3 :NextGRF | Heavy transport; passenger, mail, goods and food refits. Large airport recommended.
+STR_ROLE_FFP_HYPERDART3 :NextGRF | Supersonic express; high purchase and running costs. Large airport recommended.
+STR_ROLE_DINGER_300 :NextGRF | Double-deck, high-demand trunk routes. Large airport recommended.
+STR_ROLE_AIRTAXI_A37 :NextGRF | Fictional blended-wing efficiency flagship. Large airport recommended.
+STR_ROLE_DARWIN_800 :NextGRF | Fictional joined-wing passenger and mail airliner. Large airport recommended.
