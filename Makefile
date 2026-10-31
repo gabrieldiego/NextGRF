@@ -13,6 +13,7 @@ check:
 	$(PYTHON) -m unittest discover -s tests -v
 test: all check
 	$(PYTHON) tools/smoke_test.py --openttd $(OPENTTD)
+	$(PYTHON) tools/rail_smoke.py --openttd $(OPENTTD)
 install: all
 	$(PYTHON) tools/install.py
 clean:
